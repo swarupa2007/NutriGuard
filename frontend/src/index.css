@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@keyframes scanLine {
+  0% {
+    top: 15%;
+  }
+
+  50% {
+    top: 85%;
+  }
+
+  100% {
+    top: 15%;
+  }
+}
+
+.scan-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: #ef4444;
+  animation: scanLine 2s linear infinite;
+}
