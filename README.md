@@ -1,7 +1,7 @@
 
-# NutriGuard 🥗
+# NutriGuard 
 
-### Personalized Food Product Analysis and Safety Screening
+# Personalized packaged food analysis application that evaluates product nutrition and ingredients
 
 NutriGuard is a web application designed to help users understand packaged food products using nutrition information, ingredient analysis, and personalized health preferences.
 
